@@ -6,5 +6,5 @@ password = prompt(
 );
 
 if (password !== 'G 100,000') {
-    location.href = 'https://www.yaiabasi.site/100000-jen-otonomizasyon';
+    location.href = 'https://www.gruudeboif.site/100000-jen-otonomizasyon';
 }
